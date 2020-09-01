@@ -3,7 +3,7 @@
 <!--<![endif]-->
 
 <head>
-
+ <base href="https://scherklo.github.io/horo.uz/black/" />  
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title> Vangadan muchallar uchun aniq bashoratlar </title>
     <meta property="og:url"  content="https://astral.extrashopping.ru/" />
