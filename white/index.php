@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<base href="https://scherklo.github.io/horo.uz/white/" />    
+<base href="https://scherklo.github.iohoro.uz/white/" />    
 <script type="text/javascript" async="" src="analytics.js"></script><script type="text/javascript" async="" src="js_001.dat"></script><script src="321808052185372.js" async=""></script><script src="480839589033596.js" async=""></script><script async="" src="fbevents.js"></script><script async="" src="tag.js"></script><script type="text/javascript" async="" src="analytics.js"></script><script>
 	window.accountUserId = -1;
 	window.requestIp = "31.13.144.24";
